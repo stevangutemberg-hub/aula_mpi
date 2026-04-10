@@ -144,48 +144,23 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 
 # 7. Gráfico de Tempo de Execução
 
-Construa um gráfico mostrando o **tempo de execução em função do número de threads/processos**.
 
-## Orientações
-
-* Eixo X: número de threads/processos
-* Eixo Y: tempo de execução (segundos)
-
-Inserir o gráfico abaixo:
-
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo Execução](graficos/TEMPO.png)
 
 ---
 
 # 8. Gráfico de Speedup
 
-Construa um gráfico mostrando o **speedup obtido**.
 
-## Orientações
-
-* Eixo X: número de threads/processos
-* Eixo Y: speedup
-* Incluir também a **linha de speedup ideal (linear)** para comparação
-
-Inserir o gráfico abaixo:
-
-![Gráfico Speedup](graficos/speedup.png)
+![Gráfico Speedup](graficos/SPEEDUP.png)
 
 ---
 
 # 9. Gráfico de Eficiência
 
-Construa um gráfico mostrando a **eficiência da paralelização**.
 
-## Orientações
 
-* Eixo X: número de threads/processos
-* Eixo Y: eficiência
-* Valores entre 0 e 1
-
-Inserir o gráfico abaixo:
-
-![Gráfico Eficiência](graficos/eficiencia.png)
+![Gráfico Eficiência](graficos/EFICIENCIA.png)
 
 ---
 
